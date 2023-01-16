@@ -12,5 +12,15 @@
 <div style="width: 100%; clear: both;">
 <div style="width:100%;">&nbsp;</div>
 
-### TFG de Antonio Carlos Rodríguez Bajo
-Repositorio para código e imágenes de prueba
+### Trabajo de Fin de Grado de Antonio Carlos Rodríguez Bajo
+  
+El melanoma es un cáncer de la piel que puede ser letal si no es tratado convenientemente. La supervivencia de los pacientes depende en gran medida de una atención temprana por parte de profesionales médicos. 
+  
+ El objetivo principal de este Trabajo es demostrar el uso aplicado de la Ciencia de Datos y de la Inteligencia Artificial para crear un sistema de apoyo capaz de emitir una predicción de riesgo de melanoma a partir de imágenes dermatoscópicas. Siguiendo una planificación del Trabajo por etapas, se ha realizado las siguientes fases: 
+1. Estudio del arte sobre el tratamiento de imágenes mediante redes neuronales convolucionales, seleccionando EfficientNet. 
+2. Análisis de los conjuntos de datos abiertos de imágenes ISIC, seleccionando los datos del desafío del año 2019. 
+3. Experimentación y entrenamiento de modelos en Google Cloud para obtener el modelo óptimo. 
+4. Evaluación de las métricas de rendimiento y equidad. 
+5. Implementación del modelo en la nube de AWS, acompañado de una aplicación web para realizar diagnósticos sobre nuevas imágenes. 
+  
+Los resultados de la implementación se consideran satisfactorios, con la recomendación de su uso en pacientes adultos, tanto mujeres como hombres, mayores de 30 años, con tonos de piel clara o ligeramente morena. Mejoras en el sistema derivadas del incremento de la calidad de los datos, el aseguramiento de su interpretabilidad en un contexto clínico y la implementación de una práctica de MLOps para gestionar nuevas versiones podrían llevar a una implantación en un entorno real en producción al servicio de la comunidad médica.
