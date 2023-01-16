@@ -41,3 +41,5 @@ El orden de ejecución y el propósito de cada elemento del respositorio es el s
 |    8  | inference.py                         | Programa para convertir imágenes a tensores utilizado por el modelo desplegado. |
 |    9  | requirements.txt                     | Módulos que necesita instalar el modelo desplegado en AWS.                      |
 |   10  | TFG_Aplicacion_Web.tar.gz            | Aplicación web de diagnóstico.                                                  |
+|   11  | TFG_Aplicacion_Web.tar.gz            | Imágenes dermatoscópicas aleatoriamente seleccionados del datos de prueba.      |
+
