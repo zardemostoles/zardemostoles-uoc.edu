@@ -26,3 +26,18 @@ El melanoma es un cáncer de la piel que puede ser letal si no es tratado conven
 5. Implementación del modelo en la nube de AWS, acompañado de una aplicación web para realizar diagnósticos sobre nuevas imágenes. 
   
 Los resultados de la implementación se consideran satisfactorios, con la recomendación de su uso en pacientes adultos, tanto mujeres como hombres, mayores de 30 años, con tonos de piel clara o ligeramente morena. Mejoras en el sistema derivadas del incremento de la calidad de los datos, el aseguramiento de su interpretabilidad en un contexto clínico y la implementación de una práctica de MLOps para gestionar nuevas versiones podrían llevar a una implantación en un entorno real en producción al servicio de la comunidad médica.
+  
+El orden de ejecución y el propósito de cada elemento del respositorio es el siguiente:
+
+| Orden | Elemento                             | Descripción                                                                     |
+|-------|--------------------------------------|---------------------------------------------------------------------------------|  
+|    1  | TFG_Comun.py                         | Variables comunes del proyecto.                                                 |
+|    2  | TFG_Calculo_Tipo_Tono_Piel_ITA.ipynb | Cálculo aproximado del fototipo.                                                |
+|    3  | TFG_EDA.ipynb                        | Análisis exploratorio de datos.                                                 |
+|    4  | TFG_Modelo_Diagnostico.ipynb         | Experimentos y creación del modelo de diagnóstico óptimo.                       |
+|    5  | TFG_Evaluacion.ipynb                 | Evaluación del rendimiento y equidad del modelo.                                |
+|    6  | TFG_Crear_Modelo_AWS.ipynb           | Preparación del modelo en formato apropiado para AWS.                           |
+|    7  | TFG_Despliegue_Modelo_AWS.ipynb      | Despliegue del modelo en AWS con su correspondiente punto de enlace.            |
+|    8  | inference.py                         | Programa para convertir imágenes a tensores utilizado por el modelo desplegado. |
+|    9  | requirements.txt                     | Módulos que necesita instalar el modelo desplegado en AWS.                      |
+|   10  | TFG_Aplicacion_Web.tar.gz            | Aplicación web de diagnóstico.                                                  |
