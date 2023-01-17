@@ -27,7 +27,7 @@ El melanoma es un cáncer de la piel que puede ser letal si no es tratado conven
   
 Los resultados de la implementación se consideran satisfactorios, con la recomendación de su uso en pacientes adultos, tanto mujeres como hombres, mayores de 30 años, con tonos de piel clara o ligeramente morena. Mejoras en el sistema derivadas del incremento de la calidad de los datos, el aseguramiento de su interpretabilidad en un contexto clínico y la implementación de una práctica de MLOps para gestionar nuevas versiones podrían llevar a una implantación en un entorno real en producción al servicio de la comunidad médica.
   
-El orden de ejecución y el propósito de cada elemento del respositorio es el siguiente:
+El orden de ejecución y el propósito de cada elemento del repositorio es el siguiente:
 
 | Orden | Elemento                             | Descripción                                                                     |
 |-------|--------------------------------------|---------------------------------------------------------------------------------|  
