@@ -42,4 +42,6 @@ El orden de ejecución y el propósito de cada elemento del repositorio es el si
 |    9  | requirements.txt                     | Módulos que necesita instalar el modelo desplegado en AWS.                      |
 |   10  | TFG_Aplicacion_Web.tar.gz            | Aplicación web de diagnóstico.                                                  |
 |   11  | TFG_ISIC_images_sample_200.zip       | Imágenes dermatoscópicas aleatoriamente seleccionados del datos de prueba.      |
+|   --  | Rodriguez_AntonioCarlos-TFG-Memoria  | Memoria del Trabajo de Fin de Grado                                             |
+
 
