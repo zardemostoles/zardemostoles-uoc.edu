@@ -7,13 +7,14 @@
 <p style="margin: 0; padding-top: 22px; text-align:right;">22.536 - Trabajo de Fin de Grado</p>
 <p style="margin: 0; text-align:right;">Grado en Ciencia de Datos Aplicada</p>
 <p style="margin: 0; text-align:right; padding-button: 100px;">Estudios Informática, Multimedia y Telecomunicación</p>
-<p style="margin: 0; text-align:right; padding-button: 100px;">15 de enero de 2023</p>
 </div>
 </div>
 <div style="width: 100%; clear: both;">
 <div style="width:100%;">&nbsp;</div>
 
 ### Trabajo de Fin de Grado de Antonio Carlos Rodríguez Bajo
+  
+### 15 de enero de 2023  
 
 ### Diagnóstico automático de casos de riesgo de melanoma basado en imágenes dermatoscópicas
   
