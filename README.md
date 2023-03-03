@@ -20,7 +20,7 @@
   
 El melanoma es un cáncer de la piel que puede ser letal si no es tratado convenientemente. La supervivencia de los pacientes depende en gran medida de una atención temprana por parte de profesionales médicos. 
   
- El objetivo principal de este Trabajo es demostrar el uso aplicado de la Ciencia de Datos y de la Inteligencia Artificial para crear un sistema de apoyo capaz de emitir una predicción de riesgo de melanoma a partir de imágenes dermatoscópicas. Siguiendo una planificación del Trabajo por etapas, se ha realizado las siguientes fases: 
+ El objetivo principal de este Trabajo es demostrar el uso aplicado de la Ciencia de Datos y de la Inteligencia Artificial para crear un sistema de apoyo capaz de emitir una predicción de riesgo de melanoma a partir de imágenes dermatoscópicas. Siguiendo una planificación del Trabajo por etapas, se han realizado las siguientes fases: 
 1. Estudio del arte sobre el tratamiento de imágenes mediante redes neuronales convolucionales, seleccionando EfficientNet. 
 2. Análisis de los conjuntos de datos abiertos de imágenes ISIC, seleccionando los datos del desafío del año 2019. 
 3. Experimentación y entrenamiento de modelos en Google Cloud para obtener el modelo óptimo. 
