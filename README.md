@@ -14,9 +14,9 @@
 
 ### Trabajo de Fin de Grado de Antonio Carlos Rodríguez Bajo
   
-### 15 de enero de 2023  
-
 ### Diagnóstico automático de casos de riesgo de melanoma basado en imágenes dermatoscópicas
+  
+#### 15 de enero de 2023   
   
 El melanoma es un cáncer de la piel que puede ser letal si no es tratado convenientemente. La supervivencia de los pacientes depende en gran medida de una atención temprana por parte de profesionales médicos. 
   
